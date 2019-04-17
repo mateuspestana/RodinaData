@@ -51,6 +51,6 @@ Os dados estão disponíveis nos sites, diretamente pelos seguintes links:
     analógica (valor 0); pelo sistema **KOIB** (valor 1, onde as cédulas
     são escaneadas); ou pelo sistema **KEG** (valor 2, no qual há uma
     urna onde se registra o voto e o mesmo é impresso para confirmação)
-  - **p\_*NOMEDOPARTIDO***: Nome do partido reduzido (i.e.,
+  - **p\_*NOMEDOPARTIDO***: Número de votos que determinado partido (cujo nome é reduzido na variável, i.e.,
     p\_edinayarossiya: Rússia Unida; p\_ldpr: Partido Liberal Democrata
-    da Rússia etc)
+    da Rússia etc) recebeu
