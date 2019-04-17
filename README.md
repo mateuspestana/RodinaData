@@ -7,6 +7,8 @@ O presente repositório tem como objetivo compilar dados eleitorais da Federaç�
 
 The present repository aims to compile electoral data of the Russian Federation, obtained from [CIKRF](http://cikrf.ru) - *Tsentralnaya Izbiratelnaya Komissiya Rossiskoi Federatsii* (Central Electoral Comission of the Russian Federation).
 
+[Codebook](https://github.com/mateuspestana/RodinaData/blob/master/RodinaData_Codebook.md)
+
 As eleições contempladas são:
 
 It contains data from the following elections:
