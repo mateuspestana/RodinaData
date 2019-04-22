@@ -21,7 +21,7 @@ It contains data from the following elections:
 - [x] 2003
 - [x] 2007
 - [x] 2011
-- [ ] 2016
+- [x] 2016
 
 * Executivas/Executive (para a presidência/to the presidency):
 - [ ] 1991
